@@ -19,4 +19,6 @@ Algorithm:
 
 Both the above Paradigm converge at same rate.
 
+![Screenshot](FinalResult.png)
+
 
